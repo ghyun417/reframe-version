@@ -1,0 +1,13 @@
+{
+  "sourceType": "github",
+  "source": "github",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "repo": "alirezarezvani/claude-skills",
+  "ref": null,
+  "subpath": "marketing-skill/skills/social-media-analyzer",
+  "installSource": "alirezarezvani/claude-skills/marketing-skill/skills/social-media-analyzer",
+  "skillName": "social-media-analyzer",
+  "scope": "global",
+  "installedAt": "2026-11-02T07:19:55.778Z",
+  "updatedAt": "2026-11-02T07:19:55.778Z"
+}

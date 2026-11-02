@@ -1,0 +1,13 @@
+{
+  "sourceType": "github",
+  "source": "github",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "repo": "alirezarezvani/claude-skills",
+  "ref": null,
+  "subpath": "marketing-skill/skills/email-sequence",
+  "installSource": "alirezarezvani/claude-skills/marketing-skill/skills/email-sequence",
+  "skillName": "email-sequence",
+  "scope": "global",
+  "installedAt": "2026-11-02T07:19:55.747Z",
+  "updatedAt": "2026-11-02T07:19:55.747Z"
+}

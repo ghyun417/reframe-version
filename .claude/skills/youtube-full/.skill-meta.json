@@ -1,0 +1,13 @@
+{
+  "sourceType": "github",
+  "source": "github",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "repo": "alirezarezvani/claude-skills",
+  "ref": null,
+  "subpath": "marketing-skill/skills/youtube-full",
+  "installSource": "alirezarezvani/claude-skills/marketing-skill/skills/youtube-full",
+  "skillName": "youtube-full",
+  "scope": "global",
+  "installedAt": "2026-11-02T07:19:55.784Z",
+  "updatedAt": "2026-11-02T07:19:55.784Z"
+}

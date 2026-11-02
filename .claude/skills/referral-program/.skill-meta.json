@@ -1,0 +1,13 @@
+{
+  "sourceType": "github",
+  "source": "github",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "repo": "alirezarezvani/claude-skills",
+  "ref": null,
+  "subpath": "marketing-skill/skills/referral-program",
+  "installSource": "alirezarezvani/claude-skills/marketing-skill/skills/referral-program",
+  "skillName": "referral-program",
+  "scope": "global",
+  "installedAt": "2026-11-02T07:19:55.769Z",
+  "updatedAt": "2026-11-02T07:19:55.769Z"
+}
